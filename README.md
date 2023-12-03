@@ -1,4 +1,4 @@
-<h1 align="center">penguinFox (for Librewolf)</h1>
+# penguinFox (for Librewolf)
 
 ## **Note:** If you use Firefox, use this: [penguinFox](https://github.com/p3nguin-kun/penguinFox)
 
