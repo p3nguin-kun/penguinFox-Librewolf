@@ -46,10 +46,7 @@ done
 
 # Installing dotfiles
 logo "Installing penguinFox..."
-cp -R ./* ~/.librewolf/*.default-*/
-
-logo "Removing unused files..."
-rm -rf ~/.librewolf/*.default-*/.git ~/.librewolf/*.default-*/.github ~/.librewolf/*.default-*/penguinfox-installer.sh ~/.librewolf/*.default-*/README.md
+cp -R ./files/* ~/.librewolf/*.default-*/
 
 logo "Done!"
 printf "Completed penguinFox installation, now open Firefox and enjoy!\n"
